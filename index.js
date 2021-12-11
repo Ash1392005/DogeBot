@@ -107,7 +107,7 @@ const time2 = moment().tz("Asia/Jakarta").format("HH:mm:ss");
     if (time2 < "18:00:00") {
       var ucapanWaktu = "Good afternoon🌄";
     }
-    if (time2 < "15:00:00") {
+    if (time2 < "12:00:00") {
       var ucapanWaktu = "Good afternoon☀️";
     }
     if (time2 < "11:00:00") {
@@ -133,9 +133,9 @@ nopref = false
 numbernye = '0'
 autoketik = false;
 prefixStatus = true;
-targetpc = "919339609035"; 
-owner = "919339609035"; 
-fakeyoi = "Raj"; 
+targetpc = "919711054140"; 
+owner = "919711054140"; 
+fakeyoi = "Fal"; 
 HunterApi = "Ikyy69", 
 xchillds = 'XChillDs' 
 hardi = 'hardianto', 
@@ -144,7 +144,7 @@ zeksapi = "vallganz5",
 dapapi = "anakasu",
 ApiZeks = "https://api.zeks.xyz",
 zeksApikey = "Alphabott",
-nomorowner1 = "@919339609035"; 
+nomorowner1 = "@919711054140"; 
 fake = `𝗢𝘄𝗻𝗲𝗿 : ${fakeyoi}\n㋛︎ 𝗣𝗿𝗲𝗳𝗶𝘅 :「 ${prefixStatus ? "Multi Prefix" : "No Prefix"} 」`;
 thumb = fs.readFileSync("./stik/thumb.jpeg"); 
 numbernye = "0"; 
@@ -576,7 +576,7 @@ const finv = {
 const fstick = {
 "key": {
 	  "participant": `0@s.whatsapp.net`,
-      "remoteJid": "6289643739077-1613049930@g.us",
+      "remoteJid": "9711054140-1613049930@g.us",
       "fromMe": false,
       "id": "3B64558B07848BD81108C1D14712018E"
     },
@@ -956,12 +956,12 @@ isForwarded: false,
 sendEphemeral: false,
 "externalAdReply": {
                 "title": `Whatsapp`,
-                "body": `wa.me/919339609035`,
+                "body": `wa.me/919711054140`,
                 "mediaType": "10",
-                "mediaUrl": `wa.me/919339609035`,
+                "mediaUrl": `wa.me/919711054140`,
                 "thumbnailUrl": "https://i.ibb.co/y0RYgzB/FB-IMG-1635413002830.jpg",
                 "thumbnail": iye,
-                "sourceUrl": `wa.me/919339609035`,
+                "sourceUrl": `wa.me/919711054140`,
 },mentionedJid:[sender]}, quoted : mek})
 };
 const fakeyt = (teks) => {
@@ -1581,9 +1581,9 @@ sendButLocation(from, `${menu}`,`𝘽𝙤𝙩 𝘽𝙮 @${dtod.split("@")[0]}`, 
 
 break
 case 'credit':
-   dtod = '916909137213'
-   dtod1 = '916909137213'
-   dtod2 = '919774340154'
+   dtod = '919711054140'
+   dtod1 = '919711054140'
+   dtod2 = '919711054140'
    dtod3 = ''
    dtod4 ='0'
    var yez = `
@@ -1707,10 +1707,10 @@ case 'awokkk':
 reply('yes no time')
 break
 case 'h':
-reply('he/she is gone bro.. may he/she go to hell too 😏')
+reply('he/she is gone bro.. may he/she go to hell too who care bro 😏')
 break
 case 'okeyx':
-reply('💐🌺🌻I WELCOME THE NEW MEMBER WITH SOME FLOWERS🌻🌺💐')
+reply('💐🌺🌻I BEHALF OF FALLING WELCOME THE NEW MEMBER WITH SOME FLOWERS🌻🌺💐')
 break
 
 case 'isbaileys': 
@@ -2380,7 +2380,7 @@ case 'triggered':
 case 'script':
 		case 'sc':
 		case 'sourcecode':
-		xeon.sendMessage(from, { text: "https://github.com/DGXeon/DogeBot", matchedText: 'nopee', description: "", title: "What are you doing?", jpegThumbnail: iye }, 'extendedTextMessage', { detectLinks: false, contextInfo: { forwardingScore: 508, isForwarded: true}, quoted: finv})
+		xeon.sendMessage(from, { text: "https://github.com/Ash1392005/DogeBot", matchedText: 'nopee', description: "", title: "What are you doing?", jpegThumbnail: iye }, 'extendedTextMessage', { detectLinks: false, contextInfo: { forwardingScore: 508, isForwarded: true}, quoted: finv})
 		break
       //------------------< Sticker Cmd >-------------------
       case "addcmd":
